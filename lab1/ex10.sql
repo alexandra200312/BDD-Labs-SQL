@@ -1,0 +1,2 @@
+-- sa se calculeze suma veniturilor angajatilor care au 
+--acceasi functie si lucreaza in acelasi departament
